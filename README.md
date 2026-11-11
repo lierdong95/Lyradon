@@ -53,4 +53,4 @@ python -m venv .venv
 
 测试使用临时副本及模拟消息，不访问真实 OneBot 服务。可选诊断工具的纯内存和模拟服务测试见其 README。运行测试或安装后产生的本地文件不属于发布清单；`verify_release.py` 用于核验清单对应的干净源码；只忽略根目录 Git 元数据。
 
-本仓库保留初始项目介绍与 MIT 许可证，并从审核后的脱敏副本加入模块；未导入私人工作区的提交历史。具体检查结果见 `PUBLIC_REVIEW.md`，文件清单和校验值见 `PUBLIC_MANIFEST.json`。
+

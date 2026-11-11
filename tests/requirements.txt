@@ -1,0 +1,3 @@
+# Uses only the dependencies already required by the production modules.
+-r ../radar/requirements.txt
+-r ../scheduler/requirements.txt

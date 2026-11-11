@@ -1,0 +1,338 @@
+{
+  "edition": "sanitized-public-source",
+  "review_date": "2026-11-11",
+  "repository": "https://github.com/lierdong95/Lyradon",
+  "file_count_including_manifest": 67,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 287,
+      "sha256": "43fb0f7d997a4e21fd26c7625ec7c327855f4a6819520c09ab5732c38543f465"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 471,
+      "sha256": "f18a9d9f8fb9d82937ea68a086cb05a475853afc906c06477578a566ee5dddb2"
+    },
+    {
+      "path": "autostart_bot.ps1",
+      "bytes": 169,
+      "sha256": "f9b6c5f16fe0825d6eaae4d368b49aaf80027e0211f20ffaf3826d7edbcba28b"
+    },
+    {
+      "path": "langbot/patch_split_send.py",
+      "bytes": 6176,
+      "sha256": "46bb1301db1ecd2162d4029e621e00bbd555c431db1e3dd6b413b0692c7f068c"
+    },
+    {
+      "path": "langbot/README.md",
+      "bytes": 1541,
+      "sha256": "5d3d436a8d9d7f888d78a88abad95fafcb8e3afae635679c24f0321c2abb8074"
+    },
+    {
+      "path": "langbot/requirements-lock.txt",
+      "bytes": 4543,
+      "sha256": "22bbda4dcfef545262a76ac1405080347b42eb845a2856972358780443954364"
+    },
+    {
+      "path": "langbot/requirements.txt",
+      "bytes": 16,
+      "sha256": "8c14b192cb66d1c2cf3648364ca1ffe823383ccf6b6238894247e62d52cf6a4b"
+    },
+    {
+      "path": "langbot/run-langbot.bat",
+      "bytes": 93,
+      "sha256": "7743353c30f76a18813db9957a94b3bdc4a888df75315859972efeba2c047465"
+    },
+    {
+      "path": "langbot/setup_langbot.bat",
+      "bytes": 343,
+      "sha256": "0950e649c55d1233071a3b70a75888102ae841b973cf38ac9fcc39ee3fdb9e2f"
+    },
+    {
+      "path": "langbot/start-hidden.vbs",
+      "bytes": 271,
+      "sha256": "04052ac48dec5571d373fc24749ce24d57092709696ecf62ee82480936ee5591"
+    },
+    {
+      "path": "langbot/start_langbot.ps1",
+      "bytes": 1798,
+      "sha256": "de08eadacb238449ab7ba21d0d59293ccc2e377150a518afd57a24bf95947ca5"
+    },
+    {
+      "path": "langbot/stop_langbot.ps1",
+      "bytes": 776,
+      "sha256": "bbdfa65a5133ff7c22ba1f39ab33500a17d557780b0407657d7b41b86800defd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1067,
+      "sha256": "fadfb961cb2ea74df897d6d007b612fc8f8dc5f90314a35faa2656bb0aa4e46c"
+    },
+    {
+      "path": "LICENSES/Apache-2.0.txt",
+      "bytes": 11324,
+      "sha256": "50e6751797c50dedd75ef1b8a0d9e42f5f8472e9fbce91f34718e9f97b0c780a"
+    },
+    {
+      "path": "NOTICE",
+      "bytes": 984,
+      "sha256": "6306a80b073bf380fae59b6961219bd9c42f2a00bfb9453d01d7d80bfd9442db"
+    },
+    {
+      "path": "personasync/persona-sync.bat",
+      "bytes": 179,
+      "sha256": "2ca8908d0203dd0373b38b9d9cd64eeb77dc60b6e1e373dd977caf47aa9da86e"
+    },
+    {
+      "path": "personasync/persona-sync.example.json",
+      "bytes": 313,
+      "sha256": "de56275182f6a385ed4fc99cf924509f2ffe2f4e6374f84058744e7785f3814f"
+    },
+    {
+      "path": "personasync/persona-sync.py",
+      "bytes": 9632,
+      "sha256": "723e63c63fac3165cbcb6a0c913c109c2f9c6fb5c418b614901a455537491a26"
+    },
+    {
+      "path": "personasync/README.md",
+      "bytes": 1563,
+      "sha256": "0a1b6ce2cbc2f92d4df0a69a3fd5cff2f01139a03331eb34b603a80744e89fe6"
+    },
+    {
+      "path": "personasync/requirements.txt",
+      "bytes": 38,
+      "sha256": "3c9eca455956fae44358ec55b35269ff41038b3ecfc1cc1dea7651ea7f4a3fc6"
+    },
+    {
+      "path": "personasync/setup_personasync.bat",
+      "bytes": 242,
+      "sha256": "e6af6854c0c0ee3db39e2d22a4f775bc6340e668ea439ea158456c7f6cb87a6b"
+    },
+    {
+      "path": "PUBLIC_REVIEW.md",
+      "bytes": 3830,
+      "sha256": "41aaef30ddbb3e379b4852e510fd2d673dcd934fdeb8dcd827ec2d490977e7ee"
+    },
+    {
+      "path": "radar/.gitignore",
+      "bytes": 54,
+      "sha256": "b2d7cd04c16d2aadef678a5b5a5b7c9f9c3800fa8ed276e4276a3a3a053d53c2"
+    },
+    {
+      "path": "radar/radar.bat",
+      "bytes": 372,
+      "sha256": "0325f585536388085af54e275cf0c337312ed26df53dc43af899f7a143f80a41"
+    },
+    {
+      "path": "radar/radar.example.json",
+      "bytes": 775,
+      "sha256": "2e171e2e533b1d737d47bec62bf66ea0393dd47f9aa59c2124ded877b4f1a569"
+    },
+    {
+      "path": "radar/radar.py",
+      "bytes": 7299,
+      "sha256": "a2e7ccd64685ee127169842af158d308d707d4feb55a48261bf9f6c81df6b661"
+    },
+    {
+      "path": "radar/README.md",
+      "bytes": 2166,
+      "sha256": "1fdea88ecdbcd4d26da3af63efd0e32027232065911633eaac883f40e419e259"
+    },
+    {
+      "path": "radar/requirements.txt",
+      "bytes": 34,
+      "sha256": "8554b8a57ef0ea429191a59bae74416da716bb4181387c0079c11a5476ba9856"
+    },
+    {
+      "path": "radar/setup_radar.bat",
+      "bytes": 726,
+      "sha256": "0a3b9af3cf405c0325a88a6b621087358722b3b97f34aa6da5f5795541f2e4dc"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4034,
+      "sha256": "6a7efd181cdd624dab6c50f819a0b1307ef30ce37738ff2784d8cc066c143203"
+    },
+    {
+      "path": "scheduler/.gitignore",
+      "bytes": 57,
+      "sha256": "5ac48a5a21885c3497a12910ee2089754c4f0e814ac0bda2fd50c7e971694038"
+    },
+    {
+      "path": "scheduler/msg/morning.txt",
+      "bytes": 37,
+      "sha256": "d830bc481953e896971ad307778e745a92a52f6cb3ce34a5f5a510950ea3a840"
+    },
+    {
+      "path": "scheduler/msg/night.txt",
+      "bytes": 52,
+      "sha256": "9a8490d769818a7fa0a6874a3dcc9168c415d3d560815bae0f0b026c9f24b9a6"
+    },
+    {
+      "path": "scheduler/msg/remind.txt",
+      "bytes": 67,
+      "sha256": "1cc71d029b3055e87002ec25974b11e2ac9572f72b606c3d2f3cd7cbfed535ca"
+    },
+    {
+      "path": "scheduler/README.md",
+      "bytes": 2237,
+      "sha256": "b1cd778f09c4e1bd45ded2e837a98c98a50938145eb9a040e417af11621dbce4"
+    },
+    {
+      "path": "scheduler/requirements.txt",
+      "bytes": 33,
+      "sha256": "2161d1f8c86f658a4004e7f23ad6bf6055e7aedcf4b899aa867855ca262717d0"
+    },
+    {
+      "path": "scheduler/schedule.example.json",
+      "bytes": 429,
+      "sha256": "e05e9397b8b3b59406af50dca41c3dad2269529cc5744d79c2195be0a5d792ce"
+    },
+    {
+      "path": "scheduler/scheduler.bat",
+      "bytes": 393,
+      "sha256": "97d3887b7c1d49872759416c9765c8684765767cf057e9a5ab6dcd7c64582725"
+    },
+    {
+      "path": "scheduler/scheduler.py",
+      "bytes": 7457,
+      "sha256": "f542b0f14190419ff5ba9645d22bff307fe239f2e9d97446171703bf70d9a5fb"
+    },
+    {
+      "path": "scheduler/setup_scheduler.bat",
+      "bytes": 742,
+      "sha256": "78ec2f17c43840d1480a97e76a0b6803be0cec1442ee93bd854bfec26a567c00"
+    },
+    {
+      "path": "scripts/manage_services.ps1",
+      "bytes": 2659,
+      "sha256": "efd90ac011c8226e84f940dc7c80c9b6762548dee44313c8dc738df39f8aa47d"
+    },
+    {
+      "path": "stargaze/.gitignore",
+      "bytes": 57,
+      "sha256": "b4f4b7f6b66bc5a47c7d50313d12e0f199fbb7e8736f097239285a795e0a9274"
+    },
+    {
+      "path": "stargaze/README.md",
+      "bytes": 2297,
+      "sha256": "2e4c74c64295bf27d4a9eb7f7d4a27acd0945b7c28c74754945e8c6e25bbf318"
+    },
+    {
+      "path": "stargaze/requirements.txt",
+      "bytes": 34,
+      "sha256": "8554b8a57ef0ea429191a59bae74416da716bb4181387c0079c11a5476ba9856"
+    },
+    {
+      "path": "stargaze/setup_stargaze.bat",
+      "bytes": 741,
+      "sha256": "c3096b4683d0fdf701c6f3ab39e5ae1192801a340995c54f10b1ff76296920e0"
+    },
+    {
+      "path": "stargaze/stargaze.bat",
+      "bytes": 390,
+      "sha256": "2af6b7d157b8af5e263f48890363fe340340fd53ab75d88a6ced7d2cb8d2a15e"
+    },
+    {
+      "path": "stargaze/stargaze.example.json",
+      "bytes": 413,
+      "sha256": "fa510dfbd566de41a45f2f4998107e1953328999b54a9f4cef80197ec70206bc"
+    },
+    {
+      "path": "stargaze/stargaze.py",
+      "bytes": 14621,
+      "sha256": "8777a9ba03867a04e263e383b2b271edc5137c18bf4d7eb344ef90b3440a926b"
+    },
+    {
+      "path": "tests/requirements.txt",
+      "bytes": 135,
+      "sha256": "a86ff6d5757d04bdbe2f38b463a9aca23943f25205c9ca7d8415fb57dcb215d3"
+    },
+    {
+      "path": "tests/test_modules.py",
+      "bytes": 11599,
+      "sha256": "ce38309fe26dadf705998b9f03a024202389bc9c04ad808acd3bf9b36a06920e"
+    },
+    {
+      "path": "tools/diagnostics/observe_status.py",
+      "bytes": 9012,
+      "sha256": "9dbe8bbe0be99f948a55b19bad0e1e72a1510b8514eac3f54dd720305b7ff9ff"
+    },
+    {
+      "path": "tools/diagnostics/observer.example.json",
+      "bytes": 135,
+      "sha256": "e526ada6b6ef3d872e7e26b4b96e2d8ff4f83363fc5018eaf3315fa272054628"
+    },
+    {
+      "path": "tools/diagnostics/README.md",
+      "bytes": 1506,
+      "sha256": "1c7c9f2797135a0fabe97ff48fc00c6441f15eceb9f83a7c78c6b39f980b0891"
+    },
+    {
+      "path": "tools/diagnostics/requirements.txt",
+      "bytes": 17,
+      "sha256": "395a0cbc832e51c019afbfdd5a797220af835591acac81147268f424927b7720"
+    },
+    {
+      "path": "tools/diagnostics/setup_diagnostics.bat",
+      "bytes": 478,
+      "sha256": "63ae45b66d882c22ebe7ccdca570e3382ca509d633be7fbbd09049fb53c8894f"
+    },
+    {
+      "path": "tools/diagnostics/verify_observer.py",
+      "bytes": 3816,
+      "sha256": "146b8dd183fdb7da08ea7251a64911ab3afab4fb5504c53e831f0f776b277416"
+    },
+    {
+      "path": "tools/verify_release.py",
+      "bytes": 4287,
+      "sha256": "46d21a139782f29bfebe370d047cd67a702a063bcf3955844b4911d520b08671"
+    },
+    {
+      "path": "wordlib/.gitignore",
+      "bytes": 56,
+      "sha256": "1736ac308403ba6862fc769a29305ab12e2220e83a42475f40179ae861731fd5"
+    },
+    {
+      "path": "wordlib/README.md",
+      "bytes": 2079,
+      "sha256": "d04026a70940b551b231d0f1365251add3f0a6b71d456a1be9863be67900dddc"
+    },
+    {
+      "path": "wordlib/requirements.txt",
+      "bytes": 34,
+      "sha256": "8554b8a57ef0ea429191a59bae74416da716bb4181387c0079c11a5476ba9856"
+    },
+    {
+      "path": "wordlib/setup_wordlib.bat",
+      "bytes": 736,
+      "sha256": "63c2e524d533d1a9e69f4f7a45b31d5d6263c401db0d08289eb1a233a3fd2607"
+    },
+    {
+      "path": "wordlib/wordlib.bat",
+      "bytes": 384,
+      "sha256": "80fe8e19c89671e7d1d7563f5316379dab42561e8dfc21c5c022eb81e9c78555"
+    },
+    {
+      "path": "wordlib/wordlib.example.json",
+      "bytes": 626,
+      "sha256": "c0159922d66dce4767f14b7cdef1555d0542e01fca43ed0d2f18ff74b574a92a"
+    },
+    {
+      "path": "wordlib/wordlib.py",
+      "bytes": 6331,
+      "sha256": "adba89eb474ea6a72fda2115c837e0b297795e2fab68bdaca08828034eabd1b5"
+    },
+    {
+      "path": "停止机器人.bat",
+      "bytes": 143,
+      "sha256": "3290290315208e7a4ab84082c03b42e42f33d0c1fd776b7c0cacda2dd665a8e2"
+    },
+    {
+      "path": "启动机器人.bat",
+      "bytes": 124,
+      "sha256": "3ec864164f3c1e627d9c627c45243d100ef884dc213e66fcb80385bd5911c6f5"
+    }
+  ]
+}

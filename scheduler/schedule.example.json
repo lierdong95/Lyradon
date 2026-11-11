@@ -1,0 +1,16 @@
+{
+  "_说明": "示例任务默认关闭；修改目标群、正文和时间后再设 enabled 为 true。时间按运行电脑的本地时区解释。",
+  "napcat_url": "http://127.0.0.1:3001",
+  "token": "",
+  "schedule": [
+    {
+      "name": "晚间提醒示例",
+      "enabled": false,
+      "at": "21:00",
+      "days": "每天",
+      "type": "text",
+      "file": "msg/night.txt",
+      "group_id": 123456789
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "http_url": "http://127.0.0.1:3001",
+  "ws_url": "ws://127.0.0.1:3002",
+  "http_token": "",
+  "ws_token": ""
+}

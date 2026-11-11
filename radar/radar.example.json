@@ -1,0 +1,24 @@
+{
+  "groups": [],
+  "who": [
+    "小Q"
+  ],
+  "ws_url": "ws://127.0.0.1:3002",
+  "napcat_http": "http://127.0.0.1:3001",
+  "regions": {
+    "全国": "http://www.nmc.cn/publish/radar/chinaall.html",
+    "东北": "http://www.nmc.cn/publish/radar/dongbei.html",
+    "华北": "http://www.nmc.cn/publish/radar/huabei.html",
+    "华东": "http://www.nmc.cn/publish/radar/huadong.html",
+    "华中": "http://www.nmc.cn/publish/radar/huazhong.html",
+    "华南": "http://www.nmc.cn/publish/radar/huanan.html",
+    "西南": "http://www.nmc.cn/publish/radar/xinan.html",
+    "西北": "http://www.nmc.cn/publish/radar/xibei.html"
+  },
+  "ack_phrases": [
+    "正在查询最新雷达图。"
+  ],
+  "fail_phrases": [
+    "暂时无法获取雷达图，请稍后再试。"
+  ]
+}

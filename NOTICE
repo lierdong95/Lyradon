@@ -1,0 +1,17 @@
+Lyradon public modules
+
+Project code and documentation use the existing repository MIT license (LICENSE),
+except langbot/patch_split_send.py, which is provided under Apache License 2.0
+(LICENSES/Apache-2.0.txt). Existing third-party rights and notices are retained.
+
+LangBot integration: https://github.com/langbot-app/LangBot
+The optional split-send tool includes a small adapter-call fragment adapted from
+LangBot 4.11.4 (Apache-2.0). The public edition changes installation paths into
+explicit operator-selected configuration and requires opt-in application.
+LangBot itself and its dependencies are installed separately, not bundled.
+
+External services: NMC (https://www.nmc.cn/), Open-Meteo
+(https://open-meteo.com/), 7Timer (https://www.7timer.info/).
+These images/data/services are not included in this source distribution.
+This project's code license does not grant rights in third-party data, images,
+software or brands; consult each provider's terms when using its services.

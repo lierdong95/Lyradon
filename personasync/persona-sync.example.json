@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "persona_file": "persona.txt",
+  "database_file": "langbot/data/langbot.db",
+  "pipeline_uuid": "",
+  "restart_langbot": false,
+  "langbot_start_script": "langbot/start_langbot.ps1",
+  "langbot_pid_file": "langbot/langbot.pid",
+  "langbot_executable": "langbot-venv/Scripts/langbot.exe"
+}
